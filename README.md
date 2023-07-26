@@ -41,4 +41,4 @@ N'hésitez pas à personnaliser le formulaire selon vos besoins, et bonne chance
 
 ## Auteur
 
-Ce projet a été développé par [Nerlyss1].
+Ce projet a été développé par [Nerlyss1](https://github.com/Nerlyss1).
